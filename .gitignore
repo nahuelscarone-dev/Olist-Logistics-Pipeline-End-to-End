@@ -1,0 +1,19 @@
+# Bases de datos y archivos crudos
+*.csv
+*.xlsx
+*.db
+*.sqlite3
+
+# Seguridad y credenciales
+.env
+secretos.py
+
+# Entornos virtuales de Python
+venv/
+env/
+.venv/
+
+# Archivos temporales de Jupyter y Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
